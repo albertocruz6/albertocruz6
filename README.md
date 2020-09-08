@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there! 👋
+#### Welcome to my personal github page! ヾ(•ω•\`)o
+- I'm a _Computer Science & Engineering/Electrical Engineering_ double major student at the _**University of Puerto Rico- Mayaguez Campus**_
+- I'm in my third year and actively seeking internships and research opportunities in order to acquire more professional experience (and I'm planning to apply to grad school!).
+- In this page I'll be working on a couple projects, most of them are just for fun! Here's a little table of some of them:
+
+***NOTE: I'll be updating this constantly!***
+
+| Project Name | Personal? | Done? | Link?  |
+|:------------:|:---------:|:-----:|:------:|
+| Flappy Bird  |    Yes!   |   No  | In Git |
+| Twitter Bot  |    Yes!   |   No  | In Git |
+| Personal Page|    Yes!   |   No  | Soon!  |
+| AON-R Repo   |    No!    |   :)  | In Git |
+
+- I'm always available to collaborate on projects!😊
+
+*Linkedin Link:* https://www.linkedin.com/in/alberto-i-cruz-salam%C3%A1n-304a05192/
 
 <!--
 **albertocruz6/albertocruz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
