@@ -15,7 +15,7 @@
 
 - I'm always available to collaborate on projects!😊
 
-*Linkedin Link:* https://www.linkedin.com/in/alberto-i-cruz-salam%C3%A1n-304a05192/
+*Linkedin Link:* www.linkedin.com/in/albertocruz6
 
 *Resume Link:* https://drive.google.com/file/d/1Nv-jkcvp2R1vMgHHuCZiAA-3E-0bkmlX/view?usp=sharing
 
