@@ -17,7 +17,7 @@
 
 *Linkedin Link:* www.linkedin.com/in/albertocruz6
 
-*Resume Link:* https://drive.google.com/file/d/1Nv-jkcvp2R1vMgHHuCZiAA-3E-0bkmlX/view?usp=sharing
+*Resume Link:* https://drive.google.com/file/d/1PYhlKEcvgrnm1MkFdWQLqMk1G7Imrsc_/view?usp=sharing
 
 <!--
 **albertocruz6/albertocruz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
