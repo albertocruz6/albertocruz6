@@ -6,12 +6,14 @@
 
 ***NOTE: I'll be updating this constantly!***
 
-| Project Name | Personal? | Done? | Link?  |
-|:------------:|:---------:|:-----:|:------:|
-| Flappy Bird  |    Yes!   |   No  | In Git |
-| Twitter Bot  |    Yes!   |   No  | In Git |
-| Personal Page|    Yes!   |   No  | Soon!  |
-| AON-R Repo   |    No!    |   :)  | In Git |
+| Project Name        | Personal? | Done? | Link?  |
+|:-------------------:|:---------:|:-----:|:------:|
+| Flappy Bird         |    Yes!   |   No  | In Git |
+| Twitter Bot         |    Yes!   |   No  | In Git |
+| Personal Page       |    Yes!   |   No  | Soon!  |
+| AON-R Repo          |    No!    |   :)  | In Git |
+| Raspberry- Server   |    Yes!   |   No  | In Git |
+
 
 - I'm always available to collaborate on projects!😊
 
