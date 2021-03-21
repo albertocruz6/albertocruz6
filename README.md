@@ -17,7 +17,7 @@
 
 - I'm always available to collaborate on projects!😊
 
-[Linkedin](www.linkedin.com/in/albertocruz6)
+[Linkedin](https://www.linkedin.com/in/albertocruz6/)
 
 [Resume](https://drive.google.com/file/d/1PYhlKEcvgrnm1MkFdWQLqMk1G7Imrsc_/view?usp=sharing)
 
