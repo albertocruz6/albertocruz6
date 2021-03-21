@@ -17,9 +17,8 @@
 
 - I'm always available to collaborate on projects!😊
 
-[Linkedin](https://www.linkedin.com/in/albertocruz6/)
-
-[Resume](https://drive.google.com/file/d/1PYhlKEcvgrnm1MkFdWQLqMk1G7Imrsc_/view?usp=sharing)
+#### Contact Info:
+- [Linkedin](https://www.linkedin.com/in/albertocruz6/) | [Resume](https://drive.google.com/file/d/1PYhlKEcvgrnm1MkFdWQLqMk1G7Imrsc_/view?usp=sharing)
 
 <!--
 **albertocruz6/albertocruz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
