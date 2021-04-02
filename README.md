@@ -30,7 +30,7 @@
       <td align="center">Personal Page</td>
       <td align="center">Yes!</td>
       <td align="center">Almost there!</td>
-      <td align="center"><a href="albertocruz6.github.io">Link!</a></td>   
+      <td align="center"><a href="https://albertocruz6.github.io/">Link!</a></td>   
     </tr>
     <tr>
       <td align="center">AON-R Repo</td>
