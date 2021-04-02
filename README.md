@@ -18,13 +18,13 @@
       <td align="center">Flappy Bird</td>
       <td align="center">Yes!</td>
       <td align="center">No</td>
-      <td align="center">In Git</td>
+      <td align="center"><a href="https://github.com/albertocruz6/Flappy-Bird-Dev_">Link!</a></td>
     </tr>
     <tr>
       <td align="center">Twitter Bot</td>
       <td align="center">Yes!</td>
       <td align="center">No</td>
-      <td align="center">In Git</td>   
+      <td align="center"><a href="https://github.com/albertocruz6/Twitter_Bot-Database_Integration">Link!</a></td>   
     </tr>
     <tr>
       <td align="center">Personal Page</td>
@@ -42,7 +42,7 @@
       <td align="center">Raspberry-Server</td>
       <td align="center">Yes!</td>
       <td align="center">No</td>
-      <td align="center">In Git</td>   
+      <td align="center"><a href="https://github.com/albertocruz6/Raspberry-Server">Link!</a></td>   
     </tr>    
  </table>
 
