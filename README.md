@@ -5,8 +5,9 @@
 - In this page I'll be working on a couple projects, most of them are just for fun! Here's a little table of some of them:
 
 ***NOTE: I'll be updating this constantly!***
-<p align="center">
-  <table>
+
+
+ <table>
     <tr>
       <th>Project Name</th>
       <th>Personal?</th>
@@ -14,37 +15,36 @@
       <th>Link?</th>
     </tr>
     <tr>
-      <td>Flappy Bird</td>
-      <td>Yes!</td>
-      <td>No</td>
-      <td>In Git</td>
+      <td align="center">Flappy Bird</td>
+      <td align="center">Yes!</td>
+      <td align="center">No</td>
+      <td align="center">In Git</td>
     </tr>
     <tr>
-      <td>Twitter Bot</td>
-      <td>Yes!</td>
-      <td>No</td>
-      <td>In Git</td>   
+      <td align="center">Twitter Bot</td>
+      <td align="center">Yes!</td>
+      <td align="center">No</td>
+      <td align="center">In Git</td>   
     </tr>
     <tr>
-      <td>Personal Page</td>
-      <td>Yes!</td>
-      <td>Almost there!</td>
-      <td><a href="albertocruz6.github.io">Link!</a></td>   
+      <td align="center">Personal Page</td>
+      <td align="center">Yes!</td>
+      <td align="center">Almost there!</td>
+      <td align="center"><a href="albertocruz6.github.io">Link!</a></td>   
     </tr>
     <tr>
-      <td>AON-R Repo</td>
-      <td>No!</td>
-      <td>:)</td>
-      <td>In Git</td>   
+      <td align="center">AON-R Repo</td>
+      <td align="center">No!</td>
+      <td align="center">:)</td>
+      <td align="center">In Git</td>   
     </tr>
     <tr>
-      <td>Raspberry-Server</td>
-      <td>Yes!</td>
-      <td>No</td>
-      <td>In Git</td>   
+      <td align="center">Raspberry-Server</td>
+      <td align="center">Yes!</td>
+      <td align="center">No</td>
+      <td align="center">In Git</td>   
     </tr>    
-  </table>
- </p>
+ </table>
 
 - I'm always available to collaborate on projects!😊
 
