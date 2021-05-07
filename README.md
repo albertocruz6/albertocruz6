@@ -49,8 +49,9 @@
 - I'm always available to collaborate on projects!😊
 
 #### Contact Info:
+<p align="center">
 - [Linkedin](https://www.linkedin.com/in/albertocruz6/) | [Resume](https://albertocruz6.github.io/res/ALBERTO_RESUME.pdf) | [Website](http://albertocruz6.github.io/)
-
+</p>
 <p align="center">
   <img alt="Alberto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=albertocruz6&show_icons=true&include_all_commits=true&hide_border=true" />
 </p>
