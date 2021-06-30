@@ -51,13 +51,13 @@
 #### Contact Info:
 - [Linkedin](https://www.linkedin.com/in/albertocruz6/) | [Resume](https://albertocruz6.github.io/res/ALBERTO_RESUME.pdf) | [Website](http://albertocruz6.github.io/)
 
-<p align="center">
+<!-- <p align="center">
   <footer>
      <a href="https://www.linkedin.com/in/albertocruz6/" align="right">Linkedin!</a>
      <a href="https://albertocruz6.github.io/res/ALBERTO_RESUME.pdf" align="center">Resume</a>
      <a href="http://albertocruz6.github.io/" align="left">Website</a>
   </footer>
-</p>
+</p> -->
 <p align="center">
   <img alt="Alberto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=albertocruz6&show_icons=true&include_all_commits=true&hide_border=true" />
 </p>
