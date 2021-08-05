@@ -1,7 +1,7 @@
 ### Hi there! 👋
 #### Welcome to my personal github page! ヾ(•ω•\`)o
 - I'm a _Computer Science & Engineering/Electrical Engineering_ double major student at the _**University of Puerto Rico- Mayaguez Campus**_
-- I'm in my third year and actively seeking internships and research opportunities in order to acquire more professional experience (and I'm planning to apply to grad school!).
+- I'm in my fourth year and actively seeking internships and research opportunities in order to acquire more professional experience (and I'm planning to apply to grad school!).
 - In this page I'll be working on a couple projects, most of them are just for fun! Here's a little table of some of them:
 
 ***NOTE: I'll be updating this constantly!***
