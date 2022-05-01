@@ -29,8 +29,8 @@
     <tr>
       <td align="center">Personal Page</td>
       <td align="center">Yes!</td>
-      <td align="center">Almost there!</td>
-      <td align="center"><a href="https://albertocruz6.github.io/personal-page">Link!</a></td>   
+      <td align="center">!</td>
+      <td align="center"><a href="https://albertocruz6.com">Link!</a></td>   
     </tr>
     <tr>
       <td align="center">AON-R Repo</td>
