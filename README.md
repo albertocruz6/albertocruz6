@@ -49,7 +49,7 @@
 - I'm always available to collaborate on projects!😊
 
 #### Contact Info:
-- [Linkedin](https://www.linkedin.com/in/albertocruz6/) | [Website](http://albertocruz6.github.io/personal-page)
+- [Linkedin](https://www.linkedin.com/in/albertocruz6/) | [Website](http://albertocruz6.com)
 
 <!-- <p align="center">
   <footer>
